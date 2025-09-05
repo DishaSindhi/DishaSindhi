@@ -13,4 +13,4 @@ I specialize in extracting insights from data using **SQL, Excel, Power BI, and 
 - **Loan Approval Prediction (ML)**  
 - **E-Commerce Sales Dashboard**  
 
-I’m passionate about turning raw data into meaningful insights that help businesses make better decisions. 🚀  
+I’m passionate about turning raw data into meaningful insights that help businesses make better decisions. 
