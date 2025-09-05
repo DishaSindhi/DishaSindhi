@@ -1,16 +1,16 @@
-## Hi there 👋
+# About Myself 👋
 
-<!--
-**DishaSindhi/DishaSindhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Disha Sindhi — a highly motivated and detail-oriented Data Analyst with a strong academic foundation in Business and hands-on experience in data analysis projects.  
 
-Here are some ideas to get you started:
+I specialize in extracting insights from data using **SQL, Excel, Power BI, and Python**. I enjoy building dashboards, performing data cleaning & transformation, and applying machine learning techniques to solve real-world problems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Skilled in: Data Analysis, Data Visualization, Dashboard Development, and Predictive Modeling  
+🔹 Tools: SQL | Excel | Power BI | Python | Tableau | Pandas | Matplotlib | Seaborn  
+🔹 Projects:  
+- **ITC Hotels Revenue Optimization**  
+- **Swiggy & McDonald’s Analysis**  
+- **Flight Delay & Cancellation Analysis**  
+- **Loan Approval Prediction (ML)**  
+- **E-Commerce Sales Dashboard**  
+
+I’m passionate about turning raw data into meaningful insights that help businesses make better decisions. 🚀  
